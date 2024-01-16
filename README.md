@@ -4,7 +4,7 @@ Hi 👋 My name is Joy Ayitey
 Fullstack Expo React Native and Algorand Blockchain Dev
 -------------------------------------------------------
 
-I am a core contributor at \[NoFunLabs\](https://nofunlabs.xyz) driven by a passion for software development that transcends conventional boundaries. My dedication to staying updated with emerging technologies and my commitment to excellence enables me to craft innovative solutions that propel businesses forward. I firmly believe that meticulous attention to detail, combined with a penchant for best programming practices, results in software solutions that exceed expectations. I am excited about the future of technology and enthusiastic about collaborating with teams that share the same zeal for creating impactful, scalable, and user-centric software solutions.
+I am a core contributor at [NoFunLabs\](https://nofunlabs.xyz) driven by a passion for software development that transcends conventional boundaries. My dedication to staying updated with emerging technologies and my commitment to excellence enables me to craft innovative solutions that propel businesses forward. I firmly believe that meticulous attention to detail, combined with a penchant for best programming practices, results in software solutions that exceed expectations. I am excited about the future of technology and enthusiastic about collaborating with teams that share the same zeal for creating impactful, scalable, and user-centric software solutions.
 
 * 🌍  I'm based in Ghana
 * 🖥️  My portfolio is being worked on but will be deployed to [charad](http://charad7.vercel.app/) as soon as it is available.
