@@ -18,7 +18,7 @@ I am a core contributor at [NoFunLabs](https://nofunlabs.xyz) driven by a passio
 src="https://img.shields.io/github/followers/CharaD7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/joy_ayitey" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/joy_ayitey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/jijakahn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jijakahn?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/jijakahn?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
