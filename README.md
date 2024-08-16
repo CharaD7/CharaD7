@@ -14,10 +14,9 @@ I am a core contributor at [NoFunLabs](https://nofunlabs.xyz) driven by a passio
 * 🤝  I'm open to collaborating on web and mobile, as well as Blockchain projects
 * ⚡   I love to help out with DWM rices on matrix.
 
-<a href="https://www.github.com/CharaD7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CharaD7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/joy_ayitey" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/joy_ayitey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/charad7)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/charad7)
+[![Matrix](https://img.shields.io/badge/matrix-0A976F?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@charad7:matrix.org)
 
 ### Skills
 
